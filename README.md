@@ -38,7 +38,7 @@ tic-tac-toe/
 
 ## 🌐 Live Demo
 
-👉 https://sonirajput.09.github.io/tic-tac-toe/
+👉 https://sonirajput09.github.io/tic-tac-toe/
 
 ---
 
